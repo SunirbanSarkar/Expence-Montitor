@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Expense Monitor</string>
+
+    <string-array name="types">
+
+        <item>Food and Groceries</item>
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Utilities</item>
+        <item>Bills</item>
+
+    </string-array>
+</resources>
